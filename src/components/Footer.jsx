@@ -13,7 +13,7 @@ export default function Footer() {
                             <span className="relative inline-flex rounded-full h-4 w-4 bg-[var(--color-neon)] shadow-[0_0_15px_var(--color-neon)]"></span>
                         </span>
                         <span className="font-mono text-[var(--color-neon)] tracking-widest text-sm md:text-base font-semibold">
-                            STATUS: READY_FOR_DEPLOYMENT
+                            STATUS: READY
                         </span>
                     </div>
 
@@ -25,7 +25,7 @@ export default function Footer() {
                     </h2>
 
                     <div className="mt-16 flex items-center justify-between w-full max-w-sm pt-8 border-t border-white/10 text-slate-500 font-mono text-xs uppercase tracking-widest">
-                        <span>Alex Olmos</span>
+                        <span>Alejandro Olmos Pardo</span>
                         <span>Est. 2026 // TPL</span>
                     </div>
                 </div>
