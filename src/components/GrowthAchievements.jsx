@@ -3,19 +3,19 @@ import { useState, useEffect } from "react";
 const CARDS = [
     {
         id: 1,
-        image: "/assets/achievement1.png",
+        image: "/assets/achievement1.jpeg",
         headline: "Global Category Leadership 🏆",
         caption: "Orchestrated the ascent of Dirt Bike Unchained to the #1 position in Racing Games worldwide, surpassing established competitors like Mario Kart Tour and Asphalt Legends.",
     },
     {
         id: 2,
-        image: "/assets/achievement2.png",
+        image: "/assets/achievement2.jpeg",
         headline: "Award-Winning Strategy 🥇",
         caption: "Secured the 2021 Pocket Gamer 'Best Racing Game' award through a synergy of performance marketing and high-impact PR campaigns.",
     },
     {
         id: 3,
-        image: "/assets/achievement3.png",
+        image: "/assets/achievement3.jpeg",
         headline: "High-Velocity Production ⚡",
         caption: "Architected a creative pipeline delivering 100+ high-performance assets weekly with a lean team of two designers.",
     }
