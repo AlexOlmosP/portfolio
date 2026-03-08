@@ -34,7 +34,7 @@ export default function HeroSection() {
             >
                 <div className="absolute inset-0">
                     <img
-                        src="/assets/hero-bg.jpg"
+                        src="/assets/hero-bg.jpeg"
                         alt="Hero Background"
                         className="w-full h-full object-cover opacity-50"
                     />
@@ -59,3 +59,4 @@ export default function HeroSection() {
         </>
     );
 }
+
