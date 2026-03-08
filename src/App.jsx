@@ -26,8 +26,8 @@ function FixedNav() {
         <span className="hidden sm:inline">Email</span>
       </a>
       <a
-        href="/ALEJANDRO_OLMOS_PARDO_CV.pdf"
-        download="ALEJANDRO_OLMOS_PARDO_CV.pdf"
+        href="/assets/ALEJANDRO OLMOS PARDO CV.pdf"
+        download="ALEJANDRO OLMOS PARDO CV.pdf"
         className="flex items-center gap-1 md:gap-2 px-3 md:px-4 py-2 rounded-full border border-slate-500/30 bg-slate-500/10 text-slate-300 hover:bg-slate-500/20 transition-colors"
       >
         <FileArrowDown size={18} className="shrink-0" />
