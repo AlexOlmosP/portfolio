@@ -7,19 +7,19 @@ gsap.registerPlugin(ScrollTrigger);
 const CARDS = [
     {
         id: 1,
-        image: "/assets/monetization1.png",
+        image: "/assets/monetization1.jpeg",
         title: "ARPDAU ACCELERATION",
         description: "Orchestrated a comprehensive overhaul of in-app purchasing strategy, driving a >100% increase in ARPDAU by implementing granular user segmentation, precision price elasticity modeling, and dynamic offer design."
     },
     {
         id: 2,
-        image: "/assets/monetization2.png",
+        image: "/assets/monetization2.jpeg",
         title: "SUBSCRIPTION OPTIMIZATION",
         description: "Designed and deployed high-converting subscription architectures, focusing on schematic paywall optimization and the clear visualization of content value propositions to maximize user conversion and LTV."
     },
     {
         id: 3,
-        image: "/assets/monetization3.png",
+        image: "/assets/monetization3.jpeg",
         title: "AD MEDIATION SCALING",
         description: "Scaled ad revenue operations through programmatic precision, engineering optimized ad placements and architecting advanced waterfall mediation setups to maximize eCPMs and fill rates."
     }
